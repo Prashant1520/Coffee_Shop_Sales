@@ -1,5 +1,4 @@
 # Coffee_Shop_Sales
-## Coffee-shop-sales-dashboard
 I developed a comprehensive project in Excel, Creating multiple dashboard and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
 
 I'm Excited to share the results of my recent project, where I designed and analyzed dynamic Excel Dashboards to uncover actionable business insights.⚡
